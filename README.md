@@ -2,7 +2,7 @@
 
 Munkhjargal Tsogtsaikhan | Email: tsmj2013@gmail.com | linkedIn: https://www.linkedin.com/in/munkhjargal1/
 
-This projects are a part of the sprinfboard projects with Power BI
+This projects are a part of the springboard projects with Power BI
 
 ---
 
